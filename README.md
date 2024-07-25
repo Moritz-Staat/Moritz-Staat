@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moritz-Staat
 - 👀 I’m interested in football, programming and music
-- 🌱 I’m currently learning react!
+- 🌱 I’m currently learning basics, html, java, css and a little bit react :)
 - 📫 You can reach me per linkedin
 
 <!---
